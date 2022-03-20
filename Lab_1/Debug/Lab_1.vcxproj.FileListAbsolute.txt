@@ -1,0 +1,3 @@
+D:\Proiecte\C++\laboratoare_SDA\Lab_1\Debug\Lab_1.exe
+D:\Proiecte\C++\laboratoare_SDA\Lab_1\Debug\Lab_1.exe.lastcodeanalysissucceeded
+D:\Proiecte\C++\laboratoare_SDA\Lab_1\Debug\NativeCodeAnalysis.read.1.tlog

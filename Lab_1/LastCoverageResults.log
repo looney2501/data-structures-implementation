@@ -1,0 +1,22 @@
+[2021-03-10 23:07:47] [info] Start Program:
+Path:"D:\\Proiecte\\C++\\laboratoare_SDA\\Lab_1\\Debug\\Lab_1.exe"
+Arguments:
+Working directory: "D:\\Proiecte\\C++\\laboratoare_SDA\\Lab_1\\"
+Modules: Selected: D:\Proiecte\C++\laboratoare_SDA\Lab_1\Debug\Lab_1.exe Excluded: 
+Sources: Selected: D:\Proiecte\C++\laboratoare_SDA\Lab_1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Mircea\AppData\Local\Temp\g5ookljg.4vi 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-03-10 23:07:47] [info] Module: D:\Proiecte\C++\laboratoare_SDA\Lab_1\Debug\Lab_1.exe is selected because it matches selected pattern: D:\Proiecte\C++\laboratoare_SDA\Lab_1\Debug\Lab_1.exe
+[2021-03-10 23:08:17] [info] ----------------------------------------------------
+[2021-03-10 23:08:17] [info] Coverage binary generated in file: C:\Users\Mircea\AppData\Local\Temp\g5ookljg.4vi
+[2021-03-10 23:08:17] [info] ----------------------------------------------------
+[2021-03-10 23:08:17] [error] Your program stop with error code: 1

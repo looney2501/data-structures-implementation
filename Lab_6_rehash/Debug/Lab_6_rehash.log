@@ -1,0 +1,5 @@
+﻿  App.cpp
+  Multime.cpp
+  Generating Code...
+D:\Proiecte\C++\laboratoare_SDA\Lab_6_rehash\Multime.cpp(159): warning C4715: 'Multime::adauga': not all control paths return a value
+  Lab_6_rehash.vcxproj -> D:\Proiecte\C++\laboratoare_SDA\Lab_6_rehash\Debug\Lab_6_rehash.exe

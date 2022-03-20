@@ -1,0 +1,9 @@
+﻿  App.cpp
+  Colectie.cpp
+  IteratorColectie.cpp
+  TestExtins.cpp
+  TestScurt.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...
+  Lab_1.vcxproj -> D:\Proiecte\C++\laboratoare_SDA\Lab_1\Debug\Lab_1.exe
+D:\Proiecte\C++\laboratoare_SDA\Lab_1\TestExtins.cpp(36): warning C6001: Using uninitialized memory 'e1'.

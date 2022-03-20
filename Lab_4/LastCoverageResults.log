@@ -1,0 +1,21 @@
+[2021-04-07 22:11:23] [info] Start Program:
+Path:"D:\\Proiecte\\C++\\laboratoare_SDA\\Lab_4\\Debug\\Lab_4.exe"
+Arguments:
+Working directory: "D:\\Proiecte\\C++\\laboratoare_SDA\\Lab_4\\"
+Modules: Selected: D:\Proiecte\C++\laboratoare_SDA\Lab_4\Debug\Lab_4.exe Excluded: 
+Sources: Selected: D:\Proiecte\C++\laboratoare_SDA\Lab_4 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Mircea\AppData\Local\Temp\yzb4tzxp.fld 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-04-07 22:11:23] [info] Module: D:\Proiecte\C++\laboratoare_SDA\Lab_4\Debug\Lab_4.exe is selected because it matches selected pattern: D:\Proiecte\C++\laboratoare_SDA\Lab_4\Debug\Lab_4.exe
+[2021-04-07 22:11:49] [info] ----------------------------------------------------
+[2021-04-07 22:11:49] [info] Coverage binary generated in file: C:\Users\Mircea\AppData\Local\Temp\yzb4tzxp.fld
+[2021-04-07 22:11:49] [info] ----------------------------------------------------
